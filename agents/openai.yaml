@@ -1,0 +1,11 @@
+display_name: Ant Design React
+short_description: Production-oriented React and Ant Design skill for forms, tables, themes, TypeScript, and enterprise admin workflows.
+default_prompt: Build or improve a production React app with Ant Design. Inspect the project, choose the right component patterns, and validate the result.
+icon: code
+tags:
+  - react
+  - ant-design
+  - antd
+  - frontend
+  - production
+
